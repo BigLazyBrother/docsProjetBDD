@@ -6,7 +6,7 @@ Notre projet doit respecter les normes concernant l'accessibilité sur le Web d�
 
 Ma lecture concernant l'ergonomie et l'accessibilité va garder le Mio envoyé par Éric comme trame de fond, comme “fil rouge” pour mes recherches.
 
-### Introduction à l'ergonomie et à l'accessiblité
+### Introduction à l'ergonomie et à l’accessibilité
 
 > https://fr.wikipedia.org/wiki/Accessibilit%C3%A9_du_web
 >
@@ -20,7 +20,7 @@ En ce qui concerne les points principaux :
 
 * le site doit être en mesure de fonctionner sur le plus grand nombre de navigateurs possible et indépendamment du matériel (smartphone, montres connectées, télévisions intelligentes, connexion internet lente, écran tactile, souris, redimensionnement des polices, utilisation d'un lecteur d'écran, etc…) ;
 * le site doit être lisible, (texte contrasté avec le background, etc.) ;
-* les contenus présents sur le site doivent être accessibles de manière aussi simple et intuitive que possible (donner le temps à l'utilisateur d'effectuer ce qu'il souhaite faire, le guider dans sa navigation, lui permettre de rectifier ses erreurs facilement en le guidant, etc.). Il faut fournir des informations sur la navigation (fil d'Ariane, etc.) et s'assurer que les pages restent simples et claires (permet de garder le site utilisable en cas de membre cassé, de perte de lunettes, de travail dans une forte luminosité, etc.) ;
+* les contenus présents sur le site doivent être accessibles de manière aussi simple et intuitive que possible (donner le temps à l'utilisateur d'effectuer ce qu'il souhaite faire, le guider dans sa navigation, lui permettre de rectifier ses erreurs facilement en le guidant, etc.). Il faut fournir des informations sur la navigation (fil d'Ariane, marquage des champs erronés, etc.) et s'assurer que les pages restent simples et claires (permet de garder le site utilisable en cas de membre cassé, de perte de lunettes, de travail dans une forte luminosité, etc.) ;
 * rendre accessible tous les aspects de la navigation au clavier.
 
 En ce qui concerne la linguistique :
@@ -30,7 +30,7 @@ En ce qui concerne la linguistique :
 En ce qui concerne les handicaps :
 
 * les couleurs ne doivent pas empêcher l'utilisation du site à des personnes souffrant de daltonisme ou d'achromatopsie (sur le site du Projet IMR, l'utilisation de vert et de rouge pour distinguer les bouées fonctionnelles des bouées souffrant de malfonction n'est pas optimal. Il faudrait ajouter un mode “daltonien” appelé “couleurs alternatives” qui utiliserait par exemple un bleu sombre et un jaune franc pour éviter toute confusion de ces couleurs. Même sans distinction des couleurs (achromatopsie), le bleu paraîtra alors plus sombre que le jaune et sera reconnaissable.) ;
-* l’accessibilité du site par le plus grand nombre passe aussi par l’accessibilité aux sourdes et aux aveugles. Il serait intéressant d'un point de vue de l’accessibilité de rendre le site utilisable par des aveugles. Permettre la lecture de la carte via liseuse braille ne me semble cependant ci important, ni réaliste de manière simple, tant pour la conception que pour l'utilisation. Je pense que cet aspect ne représente en aucun cas une priorité.
+* l’accessibilité du site par le plus grand nombre passe aussi par l’accessibilité aux sourds et aux aveugles. Il serait intéressant d'un point de vue de l’accessibilité de rendre le site utilisable par des aveugles. Permettre la lecture de la carte via liseuse braille ne me semble cependant ci important, ni réaliste de manière simple, tant pour la conception que pour l'utilisation. Je pense que cet aspect ne représente en aucun cas une priorité.
 
 ### Section 508
 
